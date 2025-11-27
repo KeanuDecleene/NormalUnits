@@ -4,14 +4,14 @@
 
 NormalUnits is a lightweight Chrome extension that instantly converts:
 
-- Kilojoules → Calories
-- Pounds → Kilograms
+- Kilojoules to Calories
+- Pounds to Kilograms
 
 ## Features
 
 - Conversion as you type
 - Lightweight, no extra permissions required
-- Works offline — no API calls needed
+- Works offline - no API calls needed
 
 ## Installation
 
