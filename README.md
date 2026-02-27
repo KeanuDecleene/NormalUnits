@@ -1,6 +1,6 @@
 # NormalUnits
 
-lightweight Chrome extension that instantly converts:
+Chrome extension that converts:
 - Kilojoules to Calories
 - Pounds to Kilograms
 
